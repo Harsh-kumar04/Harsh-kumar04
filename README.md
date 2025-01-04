@@ -1,23 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hey there! I'm Harsh kumar 👋 </h1>
 
-<!--
-**Harsh-kumar04/Harsh-kumar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-Hey there! I'm Sachin Vilas Nagane 👋
-🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer 🚀
-<h1 align="center">Hey there! I'm Sachin Vilas Nagane 👋 </h1>
-<h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
+  - 🎓 &nbsp; Studying Masters of Comoputer Application.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  - 🌱 &nbsp; Learning more about Backend  and Frontend Developement.
+  
 </div> 
 </div>
 
@@ -28,24 +20,3 @@ Hey there! I'm Sachin Vilas Nagane 👋
   <p>
 </div> 
 
-⭐️ From [SAchu47](https://github.com/SAchu47)
-👨🏻‍💻 About Me
-🤔   Exploring new technologies and developing software solutions and quick hacks.
-🎓   Studying Computer Science and Engineering.
-💼   I’m currently working on Full Stack Development projects.
-🌱   Learning more about Backend Architectures and Frontend Developement.
-✍️   Pursuing Competitive Programming and Gaming as hobbies/side hustles.
-💻 Languages and Tools
-
-
-
-⭐️ From SAchu47
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
