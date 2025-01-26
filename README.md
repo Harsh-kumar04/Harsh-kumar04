@@ -31,7 +31,7 @@
     <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70" alt="VSCode">
     <img src="https://media.giphy.com/media/5xtDarlqG5UOjP1IS5a/giphy.gif" width="50" alt="MySQL">
     <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="50" alt="WordPress">
-    <img src="https://media.giphy.com/media/4kF4KYd1F1V9m5GYUs/giphy.gif" width="50" alt="Java">
+  
   </p>
 </div>
 
