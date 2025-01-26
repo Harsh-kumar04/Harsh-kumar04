@@ -12,7 +12,6 @@
     <h3> 👨🏻‍💻 About Me </h3>
     <ul>
       <li>🤔 Exploring new technologies and building software solutions with quick hacks.</li>
-   
       <li>💼 Currently working on Full Stack Development projects and volunteering with Noble Citizen Foundation.</li>
       <li>🌱 Learning and improving skills in both frontend and backend development.</li>
     </ul>
@@ -42,7 +41,6 @@
   <h3> 🌐 Connect with Me </h3>
   <p>
     <a href="https://harshkumar412.vercel.app/" target="_blank">🌍 Portfolio</a> | 
-    <a href="https://github.com/Harsh-kumar04" target="_blank">🐱 GitHub</a> | 
     <a href="https://www.linkedin.com/in/harsh-kumar-35536b250/" target="_blank">💼 LinkedIn</a>
   </p>
 </div>
