@@ -1,22 +1,37 @@
-<h1 align="center">Hey there! I'm Harsh kumar 👋 </h1>
+<h1 align="center">Hey there! I'm Harsh Kumar 👋</h1>
 
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
-<div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
-
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Masters of Comoputer Application.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend  and Frontend Developement.
-  
-</div> 
+  <img 
+    width="35%" 
+    align="right" 
+    alt="Developer Illustration" 
+    height="300px" 
+    src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png"
+  />
+  <div align="left"> 
+    <h3> 👨🏻‍💻 About Me </h3>
+    <ul>
+      <li>🤔 Exploring new technologies and building software solutions with quick hacks.</li>
+      <li>🎓 Pursuing a Master of Computer Applications at LNCT, Bhopal.</li>
+      <li>💼 Currently working on Full Stack Development projects.</li>
+      <li>🌱 Learning and improving skills in both Frontend and Backend development.</li>
+    </ul>
+  </div> 
 </div>
+
+<br clear="both" />
 
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
-   <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
-  <p>
-</div> 
-
+    <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50" alt="HTML">
+    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="CSS">
+    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50" alt="JavaScript">
+    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" alt="React">
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" alt="Node.js">
+    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50" alt="Git">
+    <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50" alt="Python">
+    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" alt="GitHub">
+    <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70" alt="VSCode">
+  </p>
+</div>
