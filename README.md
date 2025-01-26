@@ -12,7 +12,7 @@
     <h3> 👨🏻‍💻 About Me </h3>
     <ul>
       <li>🤔 Exploring new technologies and building software solutions with quick hacks.</li>
-      <li>🎓 Pursuing a Master of Computer Applications at LNCT, Bhopal (7.45 CGPA).</li>
+   
       <li>💼 Currently working on Full Stack Development projects and volunteering with Noble Citizen Foundation.</li>
       <li>🌱 Learning and improving skills in both frontend and backend development.</li>
     </ul>
