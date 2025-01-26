@@ -12,9 +12,9 @@
     <h3> 👨🏻‍💻 About Me </h3>
     <ul>
       <li>🤔 Exploring new technologies and building software solutions with quick hacks.</li>
-      <li>🎓 Pursuing a Master of Computer Applications at LNCT, Bhopal.</li>
-      <li>💼 Currently working on Full Stack Development projects.</li>
-      <li>🌱 Learning and improving skills in both Frontend and Backend development.</li>
+      <li>🎓 Pursuing a Master of Computer Applications at LNCT, Bhopal (7.45 CGPA).</li>
+      <li>💼 Currently working on Full Stack Development projects and volunteering with Noble Citizen Foundation.</li>
+      <li>🌱 Learning and improving skills in both frontend and backend development.</li>
     </ul>
   </div> 
 </div>
@@ -33,5 +33,16 @@
     <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50" alt="Python">
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100" alt="GitHub">
     <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70" alt="VSCode">
+    <img src="https://media.giphy.com/media/5xtDarlqG5UOjP1IS5a/giphy.gif" width="50" alt="MySQL">
+    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="50" alt="WordPress">
+  </p>
+</div>
+
+<div>
+  <h3> 🌐 Connect with Me </h3>
+  <p>
+    <a href="https://harshkumar412.vercel.app/" target="_blank">🌍 Portfolio</a> | 
+    <a href="https://github.com/Harsh-kumar04" target="_blank">🐱 GitHub</a> | 
+    <a href="https://www.linkedin.com/in/harsh-kumar-35536b250/" target="_blank">💼 LinkedIn</a>
   </p>
 </div>
