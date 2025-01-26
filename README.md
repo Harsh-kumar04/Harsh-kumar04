@@ -20,7 +20,7 @@
 
 <br clear="both" />
 
-<div>
+<div align="left">
   <h3> 💻 Languages and Tools </h3>
   <p>
     <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50" alt="HTML">
