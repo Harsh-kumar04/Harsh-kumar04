@@ -1,13 +1,7 @@
 <h1 align="center">Hey there! I'm Harsh Kumar 👋</h1>
 
 <div>
-  <img 
-    width="35%" 
-    align="right" 
-    alt="Developer Illustration" 
-    height="300px" 
-    src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png"
-  />
+ 
   <div align="left"> 
     <h3> 👨🏻‍💻 About Me </h3>
     <ul>
