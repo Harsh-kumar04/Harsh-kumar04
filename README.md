@@ -1,4 +1,6 @@
-<h1 align="center">Hey there! I'm Harsh Kumar 👋</h1>
+<h1 align="center">Hey there! I'm Harsh Kumar 
+<img width="241" height="234" alt="image" src="https://github.com/user-attachments/assets/866a027c-c732-4f19-9691-71488aaf00f4" />
+</h1>
  
   <div align="left"> 
     <h3> 👨🏻‍💻 About Me </h3>
