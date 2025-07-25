@@ -1,7 +1,4 @@
 <h1 align="center">Hey there! I'm Harsh Kumar 👋</h1>
-
-<div>![download](https://github.com/user-attachments/assets/a005d21e-3e63-4f14-8c63-deed2a54ab33)
-
  
   <div align="left"> 
     <h3> 👨🏻‍💻 About Me </h3>
