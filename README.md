@@ -23,7 +23,7 @@
 <div>
   <h3> 🌐 Connect with Me </h3>
   <p>
-    🌍<a href="https://harshkportfolio.vercel.app/" target="_blank">Portfolio</a> | 
-    💼 <a href="https://www.linkedin.com/in/harsh-kumar-35536b250/" target="_blank">LinkedIn</a>
+    🌍  <a href="https://harshkportfolio.vercel.app/" target="_blank">Portfolio</a> | 
+    💼  <a href="https://www.linkedin.com/in/harsh-kumar-35536b250/" target="_blank">LinkedIn</a>
   </p>
 </div>
