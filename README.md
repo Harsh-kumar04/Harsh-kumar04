@@ -1,6 +1,6 @@
 <h1 align="center">
  Hey there! I'm Harsh Kumar 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
 </h1>
 <p align="center">
   <a src="https://readme-typing-svg.herokuapp.com/?lines= Self%20Taught%20Programmer;Curious,%20tinkerer,%20and%20explorer%20...&center=true&width=380&height=45"></a>
